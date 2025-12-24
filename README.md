@@ -1,7 +1,4 @@
-## This repository contains my personal notes, summaries, and study materials for preparing for the LPIC-1 certification.
-## The content is organized step-by-step and focuses on practical Linux concepts
-with clear explanations and examples.
-
+## This repository contains my personal notes, summaries.
 # Contents
 
 > Linux Essentials
