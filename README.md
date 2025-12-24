@@ -1,4 +1,4 @@
-###### This repository contains my personal notes, summaries.
+#### This repository contains my personal notes and summaries.
 # Contents
 
 > Linux Essentials
