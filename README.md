@@ -20,5 +20,8 @@
 > Users & Groups
 
 > Storage, Partitions, and Filesystems
+
+##Usage:
+> clone the repo and open the directory by obsidian
 ## Reference
 > jadi's lpic1 playlist --> https://www.youtube.com/watch?v=cqfrsmg4BKo&list=PL-tKrPVkKKE0kM18Sg5fqaZW1V2nidAeU
