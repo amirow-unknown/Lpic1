@@ -21,7 +21,7 @@
 
 > Storage, Partitions, and Filesystems
 
-![overview](lpic1/Screenshot from 2026-02-27 18-56-41.png)
+![overview](lpic1/overview.jpg)
 
 ##Usage:
 > clone the repo and open the directory by obsidian
